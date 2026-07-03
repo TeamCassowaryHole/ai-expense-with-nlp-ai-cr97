@@ -1,4 +1,4 @@
-# 
+# Élite AI Expense Tracker with NLP thèmes. Avec vision par ordinateur et apprentissage par renforcement — optimisé pour des performances maximales.
 
 
 
